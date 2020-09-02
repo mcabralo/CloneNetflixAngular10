@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "netlix"
+    }
+  },
+  "defaultProject": "netlix",
+  "cli": {
+    "analytics": "b580108f-193b-4be2-84af-cfada7ac7f75"
+  }
 }
