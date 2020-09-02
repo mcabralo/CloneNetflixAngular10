@@ -57,6 +57,18 @@ export class AppComponent {
       'Filme de Fantasia',
       'Viagem no Espaço'
     ]
+  }, {
+    trailer: 'assets/videos/trailer_guardioes_da_galaxia_1080p.mp4',
+    cover: 'assets/images/guardios-da-galaxia.jpg',
+    name: 'Guardiões da Galaxia 4',
+    relevance: 30,
+    age: 12,
+    parts: 2,
+    categories: [
+      'Épico',
+      'Filme de Fantasia',
+      'Viagem no Espaço'
+    ]
   }];
 
   setMenuState(state: boolean) {
